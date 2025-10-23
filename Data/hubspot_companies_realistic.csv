@@ -1,0 +1,1001 @@
+company_id,company_name,industry,annual_revenue,employees,country
+1,"Garcia, Smith and Pennington",Marketing,2432026.06,109,Argentina
+2,Evans LLC,Manufacturing,2758312.99,460,Guinea-Bissau
+3,Vargas-Weaver,E-commerce,3029487.44,371,United Arab Emirates
+4,Gross and Sons,Technology,3589911.2,446,Slovakia (Slovak Republic)
+5,"Allen, Young and Montgomery",Education,2886298.02,161,Niger
+6,Allen Group,Marketing,3672094.73,393,Dominican Republic
+7,Escobar-Cohen,Finance,2889538.02,218,Korea
+8,"Hughes, Ortiz and Scott",Education,1310775.85,190,Croatia
+9,Reed PLC,Technology,876608.94,69,Brunei Darussalam
+10,"Gonzales, Villa and Allen",Marketing,4593616.52,408,French Polynesia
+11,"Meyer, Myers and Macias",E-commerce,4949902.38,282,Grenada
+12,Olson Ltd,Manufacturing,4020122.96,141,Antarctica (the territory South of 60 deg S)
+13,"Sutton, Marshall and Wilson",Marketing,1568825.7,393,Benin
+14,Murray-Carpenter,Manufacturing,3524886.21,361,Argentina
+15,"Michael, Green and Hawkins",Healthcare,4247889.39,78,Bhutan
+16,Gay Inc,Education,237120.49,216,Montenegro
+17,Vasquez-Martinez,Finance,4098499.55,66,Ethiopia
+18,Hernandez Inc,Finance,3556958.41,11,Senegal
+19,Kelley PLC,Marketing,4082431.17,383,Malta
+20,"Butler, Powell and Garcia",Manufacturing,1110205.01,465,Lithuania
+21,James Group,Marketing,1428639.91,385,Comoros
+22,"Montgomery, Schultz and Duran",Education,3410775.65,147,Colombia
+23,Hancock-Foster,Manufacturing,4274925.4,368,Saint Pierre and Miquelon
+24,Evans Group,Finance,1020113.71,411,Guadeloupe
+25,Lowery LLC,Manufacturing,3901380.56,124,Trinidad and Tobago
+26,Moreno-Horton,Marketing,3108239.87,249,Cook Islands
+27,Davis Group,Education,4590417.3,383,Slovakia (Slovak Republic)
+28,"Williams, Maynard and Perez",Finance,2577268.84,18,Ukraine
+29,Miranda and Sons,Education,3415865.97,493,Congo
+30,Livingston LLC,Marketing,2297640.89,216,Yemen
+31,"Krause, Shaw and Johnson",Education,2312507.76,253,Yemen
+32,Stuart-Richard,Manufacturing,306959.08,444,Lebanon
+33,Larson-Hood,Marketing,1968497.3,151,Uzbekistan
+34,Richards PLC,Marketing,4406219.57,185,Tonga
+35,Williams LLC,Healthcare,4015360.77,289,Bolivia
+36,Garza LLC,Manufacturing,3913404.59,329,Saint Lucia
+37,Mueller-Fowler,Finance,2066523.0,276,Greenland
+38,Parsons-Davis,Technology,3981685.68,452,Sri Lanka
+39,Stevens-Gonzalez,Technology,1902196.61,252,Jordan
+40,Torres-Lewis,Finance,2925551.87,40,Bhutan
+41,Terrell Ltd,E-commerce,1129292.22,322,Saint Martin
+42,White-Torres,E-commerce,3964650.14,250,Gibraltar
+43,Taylor LLC,Marketing,1802851.72,60,San Marino
+44,Harvey Ltd,Marketing,4042514.66,265,Barbados
+45,Boyd Ltd,Healthcare,4820320.59,398,Luxembourg
+46,Ayala Group,Marketing,4701067.85,15,Sao Tome and Principe
+47,Holden LLC,Manufacturing,1459783.54,198,Palau
+48,Mcpherson-Boone,Finance,344675.37,94,Kiribati
+49,"Sherman, Barker and Phillips",Education,146389.59,120,Germany
+50,Gray and Sons,Manufacturing,801494.17,176,Zambia
+51,Brooks PLC,Finance,2863710.89,497,American Samoa
+52,"May, Williamson and Conner",E-commerce,4035413.16,18,Western Sahara
+53,Chavez-Taylor,Healthcare,2371497.16,301,Peru
+54,Cummings Group,Education,1853071.25,388,United States Virgin Islands
+55,"Vance, Carter and Keller",E-commerce,615435.6,185,Switzerland
+56,"Perry, Lindsey and Taylor",Manufacturing,3315114.36,443,France
+57,Franklin Ltd,Manufacturing,3646634.11,475,Monaco
+58,Nolan PLC,Technology,3243745.87,55,Guadeloupe
+59,Carrillo-Parker,Manufacturing,4564411.85,265,Bhutan
+60,Wheeler Ltd,E-commerce,2888656.7,436,Switzerland
+61,Long-Ball,Education,3122855.58,389,Bermuda
+62,Cooper-Guzman,Healthcare,4846458.36,495,Czech Republic
+63,Cervantes-Thomas,E-commerce,102697.8,13,Liberia
+64,Ball and Sons,Manufacturing,2971838.99,454,Georgia
+65,Hamilton-Hall,Education,4301113.95,77,Paraguay
+66,Singh LLC,Healthcare,1206735.06,209,Sudan
+67,"Flores, Moore and Bryant",Technology,1730185.69,144,Saint Barthelemy
+68,Kirk-Hardin,Finance,700466.89,144,Myanmar
+69,"Cross, Byrd and Lawson",Healthcare,4479610.75,389,Singapore
+70,Gonzalez LLC,Manufacturing,2184808.12,453,Maldives
+71,Duran-Terry,Finance,4446653.72,86,Christmas Island
+72,"Perez, Webster and Morgan",Marketing,2313570.74,34,Italy
+73,"Sanders, Ward and Guzman",Technology,1944194.12,418,French Polynesia
+74,Davis-Taylor,Marketing,3129848.63,400,Saudi Arabia
+75,Allen-Smith,Marketing,1970412.0,421,Ecuador
+76,Houston-Castro,E-commerce,3895284.01,182,United Arab Emirates
+77,Harris PLC,E-commerce,3288849.94,195,Mauritius
+78,Simpson PLC,Education,3770951.67,321,Liberia
+79,Fisher-Turner,Marketing,624282.25,65,Russian Federation
+80,Cameron LLC,Manufacturing,3337673.14,404,Tuvalu
+81,Brown LLC,Finance,2465658.66,247,Albania
+82,Vaughn-Velasquez,Marketing,2691360.21,34,Oman
+83,"Bullock, Lopez and Armstrong",Education,4703555.57,127,Palau
+84,"Owen, Mata and Ramsey",E-commerce,3046587.76,392,Tanzania
+85,Williams Inc,Manufacturing,4025312.52,15,Peru
+86,Pugh-Ferguson,Technology,1556748.17,388,Eritrea
+87,Mccarthy-Dillon,E-commerce,3473166.42,302,Ireland
+88,"Reynolds, Pittman and Knight",Technology,2435339.66,316,Mali
+89,"Walker, Fleming and Weber",Manufacturing,954655.37,368,Ireland
+90,"Orozco, Oliver and Walsh",Healthcare,2346625.19,431,Egypt
+91,"Hunter, Howard and Sullivan",Healthcare,1181747.65,405,Liberia
+92,"Shannon, Hunter and Williams",Marketing,4600438.11,222,Heard Island and McDonald Islands
+93,Delacruz Inc,Manufacturing,3447566.47,179,Japan
+94,Davis-Owens,Technology,3720459.11,145,Ireland
+95,"Barry, Ramsey and Baker",Manufacturing,2406797.46,191,Falkland Islands (Malvinas)
+96,"Campbell, Hayes and Riggs",Manufacturing,109889.42,180,Guinea
+97,Butler-Jackson,Healthcare,524671.59,415,Albania
+98,Terry-Moore,Marketing,2341174.33,95,Saint Pierre and Miquelon
+99,Nelson-Sims,Technology,4579477.98,475,South Georgia and the South Sandwich Islands
+100,Crosby-Logan,Technology,1201597.85,305,Swaziland
+101,"Ferguson, Grant and Salas",Manufacturing,99281.62,325,Luxembourg
+102,Mays-Holmes,Finance,1220773.14,398,Bosnia and Herzegovina
+103,Galvan-Carter,Marketing,2729511.65,360,Guyana
+104,Lynch-Armstrong,Education,4900914.95,222,Turkmenistan
+105,Fernandez Group,Marketing,4660997.57,357,Fiji
+106,Smith LLC,Healthcare,3500114.31,42,Fiji
+107,Weaver-Beard,Healthcare,1031445.1,229,Saint Martin
+108,Nichols LLC,Healthcare,4867886.31,200,Jersey
+109,Taylor PLC,Healthcare,1400475.15,368,Mauritius
+110,Wright-Lloyd,E-commerce,2805223.57,419,Costa Rica
+111,"Johnston, Mcmahon and Ruiz",Manufacturing,4116990.61,262,Georgia
+112,Turner-Anthony,Healthcare,759297.07,300,Angola
+113,"Evans, Smith and Harding",Technology,1473330.94,145,Estonia
+114,"Stewart, Wolf and Abbott",Manufacturing,1942612.37,341,Colombia
+115,"Oneill, Garcia and Gutierrez",Technology,1362863.54,382,Lesotho
+116,Turner-Rivera,E-commerce,2350271.22,279,Sao Tome and Principe
+117,"Parks, Brown and Reed",E-commerce,1953340.6,107,Mali
+118,Taylor Inc,Technology,56259.49,375,Japan
+119,Villanueva Ltd,Marketing,897597.26,474,Lithuania
+120,Curtis-Jenkins,Marketing,4129666.56,57,Korea
+121,"Myers, Hicks and Stanley",E-commerce,1444927.63,136,Chad
+122,Salazar-Merritt,Education,4922513.38,33,Lao People's Democratic Republic
+123,"King, Jimenez and Simmons",Healthcare,694247.59,490,Romania
+124,Lopez PLC,E-commerce,1994130.31,497,Bulgaria
+125,Bray Ltd,Technology,4395913.01,400,Togo
+126,Avila PLC,Healthcare,2051010.72,474,Syrian Arab Republic
+127,Klein PLC,Healthcare,661127.15,67,Palestinian Territory
+128,Hunt Group,Education,209319.69,181,Montserrat
+129,Barker Group,E-commerce,3939463.1,163,Oman
+130,Hayes-Robertson,Finance,513298.89,97,Niger
+131,"Garcia, Garcia and Williams",Education,2270433.09,394,Saint Vincent and the Grenadines
+132,Harvey-Brennan,Education,3268470.57,381,Israel
+133,"Austin, Thompson and Hendricks",Finance,2172005.18,18,Eritrea
+134,"Espinoza, Anderson and Santos",Education,759578.45,349,Oman
+135,"Smith, Moore and Carroll",Education,3010604.03,443,Somalia
+136,"Bauer, Haley and Bennett",Healthcare,4584280.74,160,Brunei Darussalam
+137,Henderson LLC,Marketing,3332308.98,266,Peru
+138,Horne-Johnson,Finance,4594942.28,37,Luxembourg
+139,Goodman-Mcdowell,E-commerce,4411010.97,457,Hungary
+140,House and Sons,E-commerce,3657398.49,424,China
+141,"Maddox, Reyes and Faulkner",E-commerce,3802871.71,215,Nicaragua
+142,Burke and Sons,Technology,4941731.57,421,Central African Republic
+143,"Vargas, Krause and Weeks",Marketing,4440733.02,67,Tajikistan
+144,Ramirez Inc,Healthcare,2886476.9,120,Mali
+145,Stevenson PLC,Manufacturing,4288759.63,276,Lebanon
+146,Eaton and Sons,Finance,1109637.7,230,Vietnam
+147,"Villegas, Knight and Perez",Manufacturing,583098.75,262,Faroe Islands
+148,Barrett LLC,Finance,1715359.05,223,Eritrea
+149,"Oconnor, Huffman and Webb",Finance,274619.56,89,Saint Lucia
+150,"Roy, Dean and Thompson",Education,3493683.12,331,Saint Pierre and Miquelon
+151,Mitchell-Bradley,Marketing,1934907.2,142,Solomon Islands
+152,"Logan, Phillips and Ortega",E-commerce,3337722.22,251,Libyan Arab Jamahiriya
+153,Lane Ltd,Finance,1394582.55,242,Ireland
+154,Gross Inc,E-commerce,1368012.22,42,Svalbard & Jan Mayen Islands
+155,"George, Dodson and Nelson",Manufacturing,4044745.69,451,Russian Federation
+156,"Warner, Shaw and Cook",Technology,2718057.72,342,India
+157,Galvan Group,Marketing,4708459.38,353,Namibia
+158,Palmer Group,Technology,159080.91,414,Spain
+159,"Moore, Banks and Beltran",E-commerce,580804.22,374,Mayotte
+160,"Ballard, Carrillo and Weber",Technology,4578002.1,99,Seychelles
+161,Rose and Sons,E-commerce,950287.24,118,Brazil
+162,"Davis, Salazar and Moreno",Technology,479531.08,25,Tunisia
+163,"Sullivan, Olsen and Wilson",Healthcare,1060668.85,233,Macao
+164,"Harper, Gillespie and Wong",Manufacturing,4268828.5,70,Bangladesh
+165,Lee Ltd,Healthcare,1620994.18,20,Saint Kitts and Nevis
+166,Harris-Richardson,Finance,180985.16,491,Vietnam
+167,Trujillo-Mitchell,Finance,1311590.51,180,Bolivia
+168,Martin-Carey,Manufacturing,3650957.75,423,Christmas Island
+169,Clayton PLC,Education,720089.26,104,Libyan Arab Jamahiriya
+170,"Bradford, Lee and Ortega",Healthcare,1630523.35,411,Palau
+171,Hurst Ltd,Technology,1304026.41,439,Marshall Islands
+172,Olson and Sons,Technology,2433364.89,235,Hong Kong
+173,Turner PLC,Healthcare,1788194.4,316,French Guiana
+174,Haney-Larson,E-commerce,3354082.78,255,Norfolk Island
+175,Freeman-Perkins,Marketing,705733.79,381,Timor-Leste
+176,"Carrillo, Holder and Gross",Technology,231764.26,130,Sao Tome and Principe
+177,"Banks, Lee and Monroe",Marketing,3988414.36,147,Norway
+178,Black-Armstrong,Healthcare,1121309.72,130,Central African Republic
+179,Campbell Ltd,Finance,2026386.98,389,Tonga
+180,Rodgers-Duran,Technology,3738863.51,477,Honduras
+181,"Colon, Watkins and Olson",Manufacturing,4460911.78,99,Switzerland
+182,Nichols-Rodriguez,Manufacturing,1246027.6,195,Belgium
+183,Burns and Sons,Healthcare,4804454.81,239,Moldova
+184,Williams-Williams,Technology,2620773.54,397,Malaysia
+185,"Brown, Smith and Hanson",Manufacturing,2956150.03,55,Syrian Arab Republic
+186,Solis and Sons,Finance,990977.66,203,Jersey
+187,Chaney Ltd,Finance,1948531.4,243,Belgium
+188,Crawford Ltd,Healthcare,3243454.74,104,Hungary
+189,"Patterson, Hernandez and Myers",Finance,3367544.34,323,Sao Tome and Principe
+190,Stewart-Anderson,Marketing,2830384.48,189,Romania
+191,"Clay, Hernandez and Rice",Education,3984981.39,123,Turkey
+192,Rivera Inc,Technology,428192.64,267,Rwanda
+193,Tyler-Tucker,Manufacturing,2340439.66,105,Uruguay
+194,Howard-Decker,Manufacturing,1453983.5,238,Russian Federation
+195,Thompson and Sons,Manufacturing,730244.03,93,Mayotte
+196,Miller-Johnson,Marketing,3668259.74,380,Cook Islands
+197,"Freeman, Hughes and Barker",Marketing,3719981.93,344,China
+198,Horne-Ponce,Manufacturing,1720521.69,297,Slovakia (Slovak Republic)
+199,Mcgee LLC,Finance,1715576.93,389,Zimbabwe
+200,Mcdonald-Hart,Technology,1054887.0,256,Austria
+201,"Blake, Walker and Steele",E-commerce,3901629.26,111,Nauru
+202,Ward LLC,Education,540570.4,425,Portugal
+203,"Banks, Castillo and Fernandez",Manufacturing,2792584.78,125,Yemen
+204,Lawrence-Cruz,Technology,698869.91,260,Lesotho
+205,Weber-Patel,E-commerce,2712483.04,84,Kiribati
+206,Atkinson-Sanchez,E-commerce,1502844.91,206,Guernsey
+207,Jones and Sons,Education,3910557.96,348,Bhutan
+208,Robinson LLC,Education,4573862.9,120,Poland
+209,"Bradshaw, Mccoy and Stewart",Finance,391780.09,187,Heard Island and McDonald Islands
+210,Scott-Carlson,E-commerce,4428163.05,257,Singapore
+211,Smith PLC,Finance,4733060.29,235,Italy
+212,"Pugh, Berry and Herman",Manufacturing,1960336.95,332,Lesotho
+213,Nelson-Garrison,Technology,4020674.12,26,Norway
+214,Carpenter Ltd,Marketing,657864.57,168,Luxembourg
+215,Price Group,E-commerce,2261526.69,76,Switzerland
+216,"Hughes, Hall and Gross",Education,4168251.0,102,Spain
+217,"Davis, Johnson and Hamilton",Manufacturing,787048.45,385,Qatar
+218,"Romero, Herring and White",Education,1869779.91,410,Faroe Islands
+219,Turner-Baker,Healthcare,4187464.57,120,Rwanda
+220,Molina-Price,E-commerce,1149146.1,433,Netherlands Antilles
+221,Clark Ltd,Healthcare,4525938.7,475,Uzbekistan
+222,Johnson Group,Technology,4081862.28,80,Estonia
+223,Pacheco Ltd,Finance,4544479.59,226,Guatemala
+224,Snyder Inc,Marketing,995797.72,250,Maldives
+225,"Martinez, Valentine and Massey",Healthcare,3043586.54,331,Denmark
+226,"Griffith, Meza and Jones",E-commerce,639363.89,277,United States of America
+227,"Smith, Campbell and Hicks",Education,1894921.95,479,Belarus
+228,Giles-Lewis,E-commerce,1189805.88,68,Poland
+229,Evans LLC,Technology,1373844.48,369,Oman
+230,Smith PLC,Education,431511.59,346,Western Sahara
+231,Smith Inc,Technology,631172.17,186,Brazil
+232,Perry Ltd,Healthcare,1831905.43,385,Mozambique
+233,"Boyd, Davila and Norris",Technology,3104119.17,25,Montserrat
+234,Clements PLC,E-commerce,1386784.6,240,Ghana
+235,"Velasquez, Yates and Williams",E-commerce,1494106.09,73,Bermuda
+236,Munoz PLC,Manufacturing,2808612.84,318,Tajikistan
+237,"Martin, Hubbard and Christensen",Manufacturing,2283573.24,344,Marshall Islands
+238,"Moore, Moss and Jones",Healthcare,1437305.21,275,Saint Martin
+239,Blackburn-Williamson,Healthcare,1197862.34,58,Palau
+240,Davis-Romero,Education,137045.84,186,Liechtenstein
+241,Jones and Sons,E-commerce,156152.81,342,Korea
+242,Lawson-Dougherty,Education,693770.94,359,El Salvador
+243,"Munoz, Oliver and Ortiz",Finance,3004266.17,357,Paraguay
+244,Day PLC,Finance,4535337.66,330,Liechtenstein
+245,"Larson, Daniels and Taylor",Marketing,2570525.41,125,Falkland Islands (Malvinas)
+246,Ferguson and Sons,Healthcare,62934.42,447,Sierra Leone
+247,Harding-Hensley,Marketing,3529967.23,73,Bahamas
+248,"Valdez, Robbins and Huffman",Education,599938.46,175,Romania
+249,Evans LLC,Technology,3945043.7,421,Romania
+250,"Richards, Price and Velasquez",Education,3478216.3,167,Denmark
+251,Smith Group,Education,2016031.83,270,Liechtenstein
+252,Wu Group,Education,1960821.98,338,Tuvalu
+253,Swanson Inc,Technology,2681064.29,284,San Marino
+254,Griffin LLC,Education,194786.56,29,Tonga
+255,Ramos Inc,Manufacturing,749730.6,254,Samoa
+256,Harris PLC,E-commerce,2908746.22,328,British Indian Ocean Territory (Chagos Archipelago)
+257,Abbott Inc,Finance,3832716.64,423,Faroe Islands
+258,Dunlap-Green,Marketing,2845129.18,215,Belize
+259,"Ross, Jackson and Moran",Marketing,2246763.42,406,Netherlands Antilles
+260,Miller-Martinez,Healthcare,664858.96,417,Vanuatu
+261,"Gordon, Malone and Wheeler",E-commerce,451859.85,419,Uzbekistan
+262,"Wood, Raymond and Burns",Healthcare,4051874.0,18,Jamaica
+263,"Weber, Murphy and Williams",Finance,3820398.44,53,Burundi
+264,Smith Ltd,Manufacturing,1791262.32,292,Guatemala
+265,Herrera-Cox,Education,315865.4,212,Korea
+266,"Bray, Johnson and Miller",Manufacturing,2045196.34,236,Brunei Darussalam
+267,Anderson-Davis,Technology,3963541.79,339,Israel
+268,Kelly-Sanchez,Marketing,4776798.66,141,Pakistan
+269,Dodson Inc,Healthcare,725613.64,199,Comoros
+270,"Thompson, Silva and Warren",Manufacturing,1734708.19,363,Saudi Arabia
+271,Villa-Peck,Healthcare,2157732.63,310,Slovenia
+272,Miller PLC,Education,1087244.7,227,Egypt
+273,Weiss-Anderson,E-commerce,2866217.68,240,Kazakhstan
+274,Gallagher LLC,Technology,2383235.15,118,Bahrain
+275,"Sawyer, Newman and Hall",Manufacturing,2692836.04,334,Kazakhstan
+276,Alvarez PLC,Education,739332.97,244,Kenya
+277,"Christian, Ritter and Quinn",Manufacturing,595881.45,374,Bhutan
+278,Huerta-Morales,E-commerce,2694506.99,201,Mexico
+279,"Norris, Mullins and Edwards",Technology,1950942.67,496,Spain
+280,Vazquez-Weber,Manufacturing,2473453.54,488,Cote d'Ivoire
+281,Heath-Hoover,Healthcare,2979253.94,40,Peru
+282,"Lucas, Webb and Brown",Finance,2951895.61,373,San Marino
+283,Fields-Williams,Education,3784276.71,236,Jamaica
+284,Miller and Sons,Technology,4921669.22,232,Barbados
+285,Mooney-Woods,Finance,3817764.34,109,Mauritania
+286,Santos Inc,E-commerce,3648606.63,346,Georgia
+287,Clarke-Jones,Manufacturing,4559066.5,182,Lithuania
+288,"Joseph, Miller and May",Healthcare,3271753.74,69,Timor-Leste
+289,Williams-Washington,Education,3409476.35,431,Seychelles
+290,Alvarez-Lee,Manufacturing,2117948.98,308,Falkland Islands (Malvinas)
+291,"Taylor, Lewis and Marshall",Healthcare,4689631.28,325,Turks and Caicos Islands
+292,"Wilson, Robinson and Carter",Education,2229411.05,195,Hungary
+293,Johnson PLC,Technology,4726014.94,462,India
+294,Rivas-Foster,Healthcare,3872565.16,116,South Africa
+295,Brennan PLC,Technology,220025.3,333,Northern Mariana Islands
+296,Mercado-Tucker,Education,3309640.49,478,Saint Lucia
+297,Allen Group,Marketing,2900954.96,137,French Guiana
+298,Sanders LLC,Education,1216167.88,162,Chile
+299,Johnson and Sons,Technology,3623086.03,92,Saint Vincent and the Grenadines
+300,Griffin and Sons,Manufacturing,1723608.04,391,Hungary
+301,"Grant, Steele and Estrada",Finance,1610750.89,94,French Southern Territories
+302,Perkins Ltd,Education,3451876.75,187,Tanzania
+303,Fisher-Bryant,Manufacturing,4365093.76,419,Anguilla
+304,"Wilson, Obrien and Barron",Manufacturing,2085758.13,346,Mauritania
+305,Duncan and Sons,Education,4349771.59,224,Gambia
+306,Romero-Graham,Marketing,2430288.2,260,Malta
+307,"Key, Yates and Ruiz",Manufacturing,4672682.15,415,Mongolia
+308,Sanders Group,Technology,4307196.53,286,Central African Republic
+309,Mitchell LLC,Technology,1767558.25,285,Antarctica (the territory South of 60 deg S)
+310,Arnold PLC,Finance,4572607.19,160,Iceland
+311,Reid Group,Education,3077861.51,330,Christmas Island
+312,Weaver-Silva,Healthcare,2778222.88,240,Japan
+313,"Nguyen, Curtis and Campbell",Manufacturing,4779248.17,208,Somalia
+314,Cameron-Skinner,Technology,1950699.55,262,Bermuda
+315,"Holder, Jefferson and Graves",Finance,4331195.22,57,Taiwan
+316,Houston Inc,Marketing,3188483.22,476,San Marino
+317,"Herrera, Spears and Rivera",Education,312240.9,361,Holy See (Vatican City State)
+318,Jones and Sons,Finance,1565609.77,229,Dominica
+319,Hill Ltd,Healthcare,3070713.05,341,Congo
+320,"Murray, Fletcher and Pittman",Education,4503723.14,195,South Georgia and the South Sandwich Islands
+321,Kelly-Mann,E-commerce,4962063.43,354,Uganda
+322,Rivera Inc,E-commerce,4013072.72,210,Saint Vincent and the Grenadines
+323,Woods Ltd,Education,4417456.5,299,Tanzania
+324,Smith-Santos,Finance,3203659.69,487,Japan
+325,Gibson LLC,Education,350353.23,82,Burundi
+326,Morgan-Bridges,Finance,4666768.51,439,Israel
+327,Beasley Inc,Manufacturing,2639601.22,132,Belgium
+328,"Powers, Duran and Park",E-commerce,392068.67,240,United States of America
+329,Miller-Huffman,Healthcare,1093698.62,235,United Arab Emirates
+330,Smith Group,Healthcare,2644937.53,489,Turks and Caicos Islands
+331,"Barber, Johnson and Thomas",Manufacturing,4514925.22,85,Northern Mariana Islands
+332,Watkins-Mccoy,Education,984573.01,72,Faroe Islands
+333,Larson-Lloyd,Marketing,1750426.11,32,French Polynesia
+334,Manning and Sons,Marketing,4567684.62,280,Bhutan
+335,Rodriguez and Sons,E-commerce,4837379.44,417,Taiwan
+336,Brandt LLC,Technology,2056836.04,283,Yemen
+337,"Smith, Carr and Torres",Healthcare,1436344.21,125,Kyrgyz Republic
+338,"Beck, Peterson and Le",Technology,3609349.02,369,Falkland Islands (Malvinas)
+339,Estrada-Hartman,Education,3446522.98,413,Heard Island and McDonald Islands
+340,Barnes-Allen,Finance,4515733.25,16,Brazil
+341,Bailey-Williamson,E-commerce,4027922.4,129,Liechtenstein
+342,Russell-Key,Manufacturing,4982210.77,328,Germany
+343,Freeman-Gonzalez,E-commerce,977536.16,219,Liberia
+344,Morton and Sons,Technology,1750437.05,441,Australia
+345,Martin Inc,Manufacturing,2676093.77,189,Ghana
+346,"Taylor, Davis and Best",Marketing,2245943.09,480,Germany
+347,Walker-Lynch,Healthcare,621612.31,376,Isle of Man
+348,"Sellers, Fisher and Francis",Finance,4830585.77,294,Azerbaijan
+349,"Nunez, Anderson and Hunter",Healthcare,2606272.48,321,American Samoa
+350,"Love, Pena and Gates",Marketing,1743217.59,19,Montserrat
+351,Wilson-Davis,Manufacturing,2230527.11,404,Saint Kitts and Nevis
+352,Krueger-Jackson,E-commerce,1827577.47,247,United Arab Emirates
+353,"Holloway, Phillips and Arnold",Manufacturing,2272849.6,398,Cayman Islands
+354,Fisher-Small,E-commerce,2005850.82,160,Chile
+355,York PLC,Healthcare,4142314.19,258,United States Minor Outlying Islands
+356,"Martin, Rogers and Martin",E-commerce,744520.4,206,Malta
+357,"Little, Jimenez and Adkins",E-commerce,3181265.3,202,Bermuda
+358,"Martinez, Brown and Sutton",Education,4594930.03,237,Central African Republic
+359,Johnson Ltd,Healthcare,1240254.05,230,Uruguay
+360,"Miller, Palmer and Olson",Education,2137142.03,401,Lao People's Democratic Republic
+361,Alvarado PLC,Education,3019861.02,416,Saint Martin
+362,Bentley Ltd,Marketing,2978892.89,11,Mali
+363,Flowers PLC,Education,3189149.07,337,Croatia
+364,Lynn-Young,Healthcare,2990877.48,373,Serbia
+365,Houston-Russell,Marketing,3423282.3,158,Cook Islands
+366,Montes-Baker,Marketing,1419550.9,440,Bahamas
+367,Johnson PLC,Finance,3844216.43,356,Central African Republic
+368,Simmons Inc,Finance,2121095.17,323,Tanzania
+369,Richards-Smith,Manufacturing,3144840.88,484,Tokelau
+370,Nelson-Meyer,Technology,706351.85,216,Turkmenistan
+371,"Macdonald, Wilcox and Evans",Manufacturing,1970234.57,125,Timor-Leste
+372,Taylor and Sons,Manufacturing,1213281.58,271,Gambia
+373,Vasquez-Riddle,Finance,3858018.68,381,Colombia
+374,Wolfe-Ali,Healthcare,873655.69,221,Niger
+375,"Mclaughlin, Williams and King",Healthcare,4552609.84,294,Latvia
+376,"Garcia, Adams and Hernandez",Finance,4849483.32,304,Guinea-Bissau
+377,Logan PLC,Education,981615.82,93,Trinidad and Tobago
+378,Huffman Inc,Marketing,4146082.14,308,Niue
+379,Smith-Parker,Education,4298072.69,489,Ecuador
+380,Hansen Inc,E-commerce,4294826.84,155,Somalia
+381,Gregory Inc,Finance,2403813.16,10,Saudi Arabia
+382,Yates-Coleman,Manufacturing,2108415.62,193,Canada
+383,"Strickland, Mullen and Anderson",Education,341358.79,432,Chile
+384,Juarez-Morris,Finance,3698848.41,218,Anguilla
+385,Barrera PLC,Education,4552423.62,388,Fiji
+386,Guerrero Ltd,Finance,2924686.54,193,Antarctica (the territory South of 60 deg S)
+387,"Gonzalez, Chavez and Blackwell",Technology,3730000.66,169,Moldova
+388,Reese Ltd,E-commerce,3726195.97,313,Monaco
+389,Hartman-Doyle,Education,1010339.23,328,Suriname
+390,Thomas and Sons,Finance,967683.28,262,Barbados
+391,Martin-Lee,Healthcare,3328938.68,327,Cuba
+392,Jenkins-Davenport,Marketing,3372199.57,100,Nigeria
+393,Moreno Group,Technology,856897.02,341,Bulgaria
+394,"Murphy, Harmon and Rollins",Manufacturing,4134433.29,63,Suriname
+395,"Williams, Brooks and Case",Technology,3374550.95,481,Bahamas
+396,Galvan and Sons,Finance,2317245.92,394,Andorra
+397,"Wallace, Hall and Bird",Manufacturing,4668078.88,44,French Southern Territories
+398,Turner-Warner,Finance,2722054.58,361,Albania
+399,"White, Mills and Barnes",E-commerce,4807379.7,135,Germany
+400,Keith-Fletcher,E-commerce,214266.01,403,Vanuatu
+401,Craig-Herrera,Marketing,4082634.67,355,Austria
+402,Brown and Sons,Marketing,2223781.01,144,Estonia
+403,Bennett-Jones,Marketing,885777.26,70,Portugal
+404,Hernandez PLC,Education,4786711.98,44,Wallis and Futuna
+405,Knight-Rich,Education,2726465.9,43,Hong Kong
+406,"Perez, Kramer and Fields",Education,4517768.47,139,Croatia
+407,Howard LLC,Manufacturing,1776718.61,339,Kenya
+408,"Griffin, Kennedy and Blair",Marketing,3384282.18,34,Suriname
+409,"Osborne, Mullins and Smith",Marketing,3785642.15,421,Mozambique
+410,Thomas-Santiago,Finance,326281.57,487,Estonia
+411,"Walton, Allen and Walter",E-commerce,3671377.64,317,Philippines
+412,"Barker, Chandler and Sanford",Finance,770606.43,22,Russian Federation
+413,Walker Group,Technology,3245485.18,473,Fiji
+414,Leach-Armstrong,Education,2353529.05,239,Kiribati
+415,Chandler-Richardson,Education,4791832.79,315,Jordan
+416,Ramirez-Brown,Technology,4102975.94,403,Mali
+417,Padilla-Anderson,Technology,3988278.26,420,Faroe Islands
+418,"Olsen, Ross and Maldonado",Education,3873962.96,331,Algeria
+419,Larson LLC,Technology,1221113.99,130,San Marino
+420,Vaughn Ltd,Marketing,880312.97,487,Bermuda
+421,Knapp-Bishop,Technology,370982.73,12,Peru
+422,"Lang, Clark and Keith",Healthcare,2327989.39,401,Puerto Rico
+423,Wilkins-Brown,Technology,4510542.84,167,Niue
+424,Evans-Miller,Technology,4665697.02,428,Bangladesh
+425,Wheeler-Wilson,Healthcare,3639528.87,85,Djibouti
+426,"Robinson, Tapia and Escobar",E-commerce,4508040.97,345,Philippines
+427,"Miller, Ramirez and Moran",Technology,2871843.57,424,Cuba
+428,"Hoffman, Moore and Mcdowell",Marketing,810572.56,333,United States Virgin Islands
+429,"Delgado, Dickerson and Hudson",Finance,3883661.52,133,Lebanon
+430,Contreras-Hartman,Marketing,800291.37,33,Botswana
+431,"Sexton, Fuller and Martinez",Marketing,4015012.22,343,Somalia
+432,"Farmer, Stevenson and Jenkins",Finance,4254912.31,185,Chad
+433,Sawyer Inc,Technology,1386008.63,470,Cayman Islands
+434,Johnson Ltd,Healthcare,4095932.2,121,Bulgaria
+435,Olsen Group,Technology,949688.64,196,Holy See (Vatican City State)
+436,Anderson Inc,E-commerce,467281.22,453,Canada
+437,Townsend-Nelson,Manufacturing,2076078.24,338,Belarus
+438,"Bell, Bishop and Moyer",Marketing,4090648.48,368,Canada
+439,Adams-Douglas,Manufacturing,4566093.39,478,Lithuania
+440,Davis Inc,E-commerce,540347.54,71,Micronesia
+441,Bradley and Sons,Technology,4392585.2,269,Tanzania
+442,"Kaufman, Peterson and Jones",E-commerce,4259925.98,254,Equatorial Guinea
+443,Cruz-Robinson,E-commerce,1572330.03,399,Mozambique
+444,David LLC,Manufacturing,2312230.54,473,Trinidad and Tobago
+445,Greene Group,Manufacturing,4379839.4,424,Panama
+446,Wilkins Ltd,Technology,4885534.56,453,Hungary
+447,"Shields, Flynn and Miller",Finance,1221214.87,73,Guinea
+448,Hall-Wells,Finance,4801548.93,491,Germany
+449,Parker-Campbell,Technology,3762629.45,247,Japan
+450,Williams Group,Healthcare,2491799.71,342,Serbia
+451,Morse and Sons,Education,3393062.1,489,Suriname
+452,"Oliver, Smith and Everett",Marketing,4193412.33,134,Mozambique
+453,Ward-Greene,Marketing,466956.25,462,Ukraine
+454,Phillips and Sons,E-commerce,2451981.42,292,Cambodia
+455,"Johnson, Griffin and Jones",E-commerce,1167417.84,116,Malaysia
+456,"Hood, Gallegos and Bowman",Healthcare,4744220.16,221,Congo
+457,Gardner PLC,Marketing,2804805.06,384,French Polynesia
+458,"Barnes, Ewing and Ruiz",Manufacturing,257127.7,260,British Indian Ocean Territory (Chagos Archipelago)
+459,Myers-Hardin,Finance,1088636.93,323,Niger
+460,Braun-Grant,E-commerce,2854409.26,321,Macao
+461,Parker Ltd,Manufacturing,4059822.08,171,Nauru
+462,"Cunningham, Lopez and Brooks",Marketing,1152044.34,273,Holy See (Vatican City State)
+463,Chen and Sons,Technology,4015485.51,181,Saint Pierre and Miquelon
+464,Francis and Sons,Healthcare,378543.86,267,Tanzania
+465,Jones Group,Marketing,711954.05,226,Hungary
+466,"Lewis, Turner and Bruce",Finance,3681603.08,122,Swaziland
+467,"Mcguire, Taylor and Chavez",Education,1686598.9,450,Vietnam
+468,"Sloan, Stewart and Flores",Healthcare,3594490.74,339,Gambia
+469,Nguyen-Lawson,Finance,1310597.12,456,Comoros
+470,Suarez LLC,Education,4085392.22,435,Yemen
+471,Fields and Sons,E-commerce,2420913.85,108,Andorra
+472,"Evans, Nixon and Hendrix",Finance,4581760.35,32,Reunion
+473,"Davis, Wilson and Davis",Manufacturing,956528.61,459,Yemen
+474,Rosario and Sons,Healthcare,3856014.97,101,Togo
+475,Payne Group,Healthcare,4019876.04,209,Burkina Faso
+476,Hardin Group,Manufacturing,2471261.35,208,Iran
+477,Davila-Hart,Technology,4492841.57,275,Equatorial Guinea
+478,"Berger, Morton and Gonzalez",Marketing,1075869.67,154,Georgia
+479,"Mcbride, Walker and Conner",Healthcare,1278916.96,87,Belarus
+480,Leonard-Clay,Technology,687480.12,38,Tuvalu
+481,Wright Group,Manufacturing,2720207.8,330,Lesotho
+482,"Stark, Garcia and Mckee",Marketing,3882862.59,148,Luxembourg
+483,"Jones, Rogers and Williams",Education,4982256.04,45,Swaziland
+484,"Jones, Jones and Walters",Manufacturing,2013680.83,41,Cambodia
+485,White-Rios,E-commerce,4184309.0,399,Montserrat
+486,Holland-Coleman,Education,2289782.07,442,Tokelau
+487,Horn Ltd,Education,1961915.16,165,Latvia
+488,Jones PLC,Finance,1616656.31,212,Denmark
+489,Dunn Group,Healthcare,61911.08,489,Guinea-Bissau
+490,"Casey, Schultz and Allen",Technology,4601645.19,221,Slovakia (Slovak Republic)
+491,Hernandez-Myers,Technology,2706197.38,423,Cote d'Ivoire
+492,Coleman-Salinas,Education,4854387.05,84,Malta
+493,"Davis, Williams and Parks",E-commerce,2947095.05,406,Iraq
+494,"Harper, Lyons and Chen",Finance,286534.45,358,Bosnia and Herzegovina
+495,"Dixon, Horton and Wood",Manufacturing,1623179.49,123,Palau
+496,Miller-Dalton,Healthcare,3135382.57,356,Christmas Island
+497,"Johnson, Brown and Harvey",Manufacturing,389400.82,272,Nepal
+498,"Rodriguez, Carroll and Smith",Manufacturing,863040.59,484,Greece
+499,Brown LLC,Manufacturing,2438693.64,62,Swaziland
+500,"Lynch, Smith and Lane",Education,4731247.97,389,Palestinian Territory
+501,Cole-Anderson,Education,559576.76,386,Malawi
+502,Schultz Ltd,Manufacturing,3619356.34,425,Jamaica
+503,Weaver-Hill,E-commerce,3063348.21,180,Antigua and Barbuda
+504,Crawford Inc,Marketing,96447.35,49,Central African Republic
+505,"Harris, Robinson and Aguilar",Healthcare,1261043.33,362,Cuba
+506,"Wilson, Atkinson and Moon",Manufacturing,1155892.45,178,San Marino
+507,"Fitzgerald, Hernandez and Johnson",Technology,3272714.14,437,Nigeria
+508,"Porter, Walker and Adams",E-commerce,3383179.74,358,Burundi
+509,Brown-Davis,Healthcare,2390310.45,206,Costa Rica
+510,Sweeney-Conner,Education,424925.68,212,Bulgaria
+511,Bell Group,Education,4478321.14,38,Chad
+512,"Mcgee, Gray and Chen",Healthcare,2961474.78,445,Madagascar
+513,Barton Inc,Education,3816848.48,267,Saint Barthelemy
+514,"Garcia, Berg and Nicholson",Finance,1525143.06,143,Thailand
+515,Poole-Kline,Education,3063708.39,103,Faroe Islands
+516,Abbott Ltd,E-commerce,4932959.24,24,China
+517,Mccoy-Perez,E-commerce,3723687.97,414,Somalia
+518,Hernandez-Yang,Healthcare,850925.97,146,San Marino
+519,Hudson-Moss,Healthcare,4690657.71,147,Mexico
+520,Hunt Ltd,Healthcare,2753849.86,290,Greenland
+521,Gonzalez-Ramirez,Manufacturing,1997506.11,285,San Marino
+522,White-Williamson,Education,545244.02,353,French Polynesia
+523,Pierce and Sons,E-commerce,4324486.67,275,Lebanon
+524,Sims-Burgess,Healthcare,4604643.8,454,Antigua and Barbuda
+525,"Montgomery, Murphy and Cherry",Healthcare,1989191.14,316,Kyrgyz Republic
+526,Martinez and Sons,E-commerce,3599173.77,408,Malawi
+527,Adams-Armstrong,Healthcare,339730.45,326,Nauru
+528,Johnson Inc,Finance,1303676.2,14,Hong Kong
+529,Fleming LLC,Marketing,4391781.39,178,Jamaica
+530,Burton Inc,Education,1660828.47,74,Netherlands Antilles
+531,Rogers LLC,Manufacturing,2735734.9,296,Uganda
+532,Kent Group,Marketing,3481797.96,275,Myanmar
+533,"Smith, Vaughn and Fields",Finance,3838068.73,283,Saint Helena
+534,"Montgomery, Martinez and Stark",Finance,3585566.82,374,Slovakia (Slovak Republic)
+535,James-Herring,Technology,385810.02,146,Congo
+536,"Riley, Taylor and Smith",E-commerce,2682320.52,302,Montenegro
+537,Sanchez-Gordon,Marketing,2129226.76,309,Tanzania
+538,"Nelson, Vega and Macdonald",Manufacturing,813632.56,244,French Guiana
+539,Mills-Wyatt,Finance,3115621.3,148,Pakistan
+540,Elliott Inc,Finance,1006441.6,175,Malawi
+541,"Hart, Williams and Padilla",Marketing,3985598.37,380,Tokelau
+542,"Mccoy, Anderson and Simpson",Healthcare,538251.85,300,Montenegro
+543,"Simmons, Case and Wood",Education,260683.78,477,Dominican Republic
+544,Rodgers Ltd,Manufacturing,3571668.94,349,Congo
+545,"Myers, Sloan and Harris",Education,2803754.28,134,Estonia
+546,Everett-Johnson,Education,1371499.11,433,Bangladesh
+547,Reyes-Chen,Technology,1056587.03,155,Chile
+548,Smith and Sons,E-commerce,674024.53,61,Eritrea
+549,"Warren, Guerrero and Carlson",Marketing,133329.28,96,Niue
+550,Walker Inc,Technology,1459870.25,96,Burundi
+551,Peterson-Parker,E-commerce,4478461.01,454,Singapore
+552,Vaughn-Williams,Education,2304668.15,287,Falkland Islands (Malvinas)
+553,"Williams, Nguyen and Cannon",Education,3344690.79,131,Bolivia
+554,Christian Group,Technology,4127292.38,60,Congo
+555,"Tran, Smith and Morgan",Technology,78032.87,481,Ireland
+556,Henderson Group,Technology,2460937.23,445,Netherlands Antilles
+557,Ray LLC,Marketing,1657780.36,367,Reunion
+558,Whitaker Inc,Education,1909510.66,429,Belgium
+559,James-Chan,Healthcare,2427985.41,129,Mexico
+560,Moore-Johnson,Manufacturing,3750792.84,253,Bosnia and Herzegovina
+561,"Duarte, Hamilton and Jones",Marketing,4819718.72,288,Guam
+562,Santana-Schmidt,Finance,324715.39,292,Barbados
+563,Smith PLC,Manufacturing,1946084.0,14,Switzerland
+564,Dixon-King,Finance,1607116.97,385,Ukraine
+565,"Cunningham, Harris and Carrillo",Manufacturing,1303850.65,71,Jersey
+566,"Benjamin, Peterson and Herrera",Education,848691.38,78,Pitcairn Islands
+567,Mcguire PLC,E-commerce,1336631.42,363,San Marino
+568,Reed-Irwin,E-commerce,1497791.04,25,Reunion
+569,"Mayer, Kaufman and Jackson",Finance,3075846.31,129,Romania
+570,Johnson-Brown,E-commerce,1324967.12,168,Thailand
+571,Carter Ltd,Healthcare,3040766.86,332,United States Virgin Islands
+572,Moss Inc,Finance,2451496.53,260,Norway
+573,"Henson, Mooney and Alexander",Healthcare,4403208.04,282,Isle of Man
+574,Pineda Inc,Finance,1884545.86,320,French Southern Territories
+575,Hughes and Sons,E-commerce,358893.43,55,Christmas Island
+576,Cantu LLC,Manufacturing,269859.71,173,Niger
+577,Wright Ltd,Manufacturing,4631553.65,158,Cote d'Ivoire
+578,"Pugh, Webb and Mendoza",E-commerce,2899325.72,430,Timor-Leste
+579,"Velez, Curtis and Jones",Healthcare,463672.93,162,Spain
+580,"Walters, Flores and Thompson",Technology,977549.87,408,Puerto Rico
+581,Hopkins-Jackson,E-commerce,1663443.71,334,Paraguay
+582,Wang and Sons,E-commerce,4264423.64,484,Gibraltar
+583,Allen Ltd,Manufacturing,4958913.61,440,Dominica
+584,Wilcox Group,Technology,2168869.87,33,Saint Vincent and the Grenadines
+585,Mcintyre LLC,Education,815427.38,15,Greece
+586,Frye Inc,Healthcare,905585.86,31,Botswana
+587,Ray-Clark,Healthcare,1375847.9,83,Bahamas
+588,Reyes-Knox,Manufacturing,3736084.43,395,Guinea
+589,"Martin, Mcdowell and Arnold",Finance,3935823.35,468,Western Sahara
+590,Odonnell and Sons,Education,2168030.82,176,Kiribati
+591,"Moore, Simon and Hunter",Technology,2927594.29,330,Tonga
+592,Mclaughlin-Larson,Manufacturing,3678787.65,400,Saint Vincent and the Grenadines
+593,"Andrews, Escobar and Mendoza",E-commerce,691309.48,120,Zambia
+594,Williams-Flowers,Manufacturing,1735232.42,399,Tuvalu
+595,Juarez-Myers,E-commerce,3951463.82,281,Jersey
+596,Cole Inc,Manufacturing,1073712.81,211,Benin
+597,Nielsen-Owens,E-commerce,2817495.18,56,Belarus
+598,Mason Group,Marketing,3143107.89,74,Tanzania
+599,Cook-White,Healthcare,961755.85,461,Guernsey
+600,"Murray, Garrison and Chambers",Education,4117443.17,74,Guinea
+601,Flores LLC,E-commerce,2289002.44,350,Gambia
+602,Colon-Brown,Marketing,3272985.78,414,British Indian Ocean Territory (Chagos Archipelago)
+603,Murphy LLC,Technology,379445.58,70,Antarctica (the territory South of 60 deg S)
+604,Solis PLC,Healthcare,2676792.29,102,Romania
+605,Jensen PLC,Marketing,4480894.98,119,Monaco
+606,Medina Ltd,E-commerce,388121.29,85,Kyrgyz Republic
+607,Jackson PLC,E-commerce,4668137.99,216,Equatorial Guinea
+608,Smith-Holder,Education,4604294.4,82,Macedonia
+609,Hahn-Holmes,Education,1719269.85,252,Isle of Man
+610,Parker-Rivera,Technology,496387.5,106,Angola
+611,"Coleman, Carrillo and Roberson",Manufacturing,1552330.81,486,Kuwait
+612,Vazquez-Burton,Finance,4987101.79,200,Haiti
+613,Morse-Franklin,Technology,771863.84,62,Mayotte
+614,Wolfe LLC,Technology,1967740.36,84,Marshall Islands
+615,Jones PLC,E-commerce,4379345.19,214,Israel
+616,"Sexton, Ford and Patel",Technology,1503048.97,338,Germany
+617,"Graham, Mcdaniel and Flores",Education,1285348.56,220,Ireland
+618,"Castaneda, Rios and Drake",E-commerce,2787633.94,483,Sao Tome and Principe
+619,Brooks-Price,Manufacturing,1159673.95,55,United States of America
+620,Young Group,Marketing,2558061.05,255,Japan
+621,Evans and Sons,Manufacturing,936534.5,66,New Caledonia
+622,"Palmer, James and Bates",Finance,547190.74,207,Saint Vincent and the Grenadines
+623,Sanders-Evans,Finance,637005.59,87,Barbados
+624,"Mills, Allison and Sullivan",Education,3272982.42,103,Yemen
+625,Rich-Nguyen,Education,4291345.55,482,Ghana
+626,Santiago PLC,Marketing,2105127.24,42,Venezuela
+627,Bell-Owens,E-commerce,904080.09,152,Germany
+628,Smith Inc,Manufacturing,1678694.5,301,Mexico
+629,Arnold-Wagner,Healthcare,3414627.05,261,Qatar
+630,"Rivera, Henderson and Ellis",Education,3273467.32,463,Lao People's Democratic Republic
+631,Webb-Alvarado,Education,4759968.26,191,Sierra Leone
+632,"Thomas, Smith and Clark",Marketing,1820890.8,342,Reunion
+633,Johnson PLC,Technology,4370382.17,437,Isle of Man
+634,"Ochoa, Velasquez and Ross",Healthcare,4608825.62,293,El Salvador
+635,Moreno Ltd,Technology,2779960.92,367,San Marino
+636,Wilson-Garza,Technology,4123746.53,193,Tunisia
+637,"Clay, Mitchell and Porter",Healthcare,1994465.59,372,Burundi
+638,"Anderson, Harris and Howell",Marketing,2528069.97,371,Hungary
+639,"Miller, Wallace and Johnson",Manufacturing,533608.61,329,Tuvalu
+640,Moran-Owens,Technology,864265.89,82,Oman
+641,Cameron PLC,Marketing,2987399.18,33,Turkmenistan
+642,Nelson Ltd,Healthcare,3783897.99,263,Antarctica (the territory South of 60 deg S)
+643,"Lopez, Castaneda and West",Education,4784053.75,16,Suriname
+644,"Hoffman, Kelly and Stewart",Finance,2914257.89,108,Botswana
+645,Young Ltd,Finance,4368002.03,34,Greece
+646,"Gordon, Edwards and Smith",Marketing,294414.52,325,Jordan
+647,"Griffin, Gray and Kim",Finance,781923.06,404,Ghana
+648,Morris-Sandoval,Marketing,796971.3,474,Haiti
+649,Torres Group,Technology,4635624.51,465,Nepal
+650,"Duncan, Ball and Deleon",Technology,3897074.71,50,Rwanda
+651,Robbins-Wallace,E-commerce,3097516.04,341,Serbia
+652,Herrera-Harrell,Marketing,3230054.94,415,Trinidad and Tobago
+653,Kelly Ltd,Marketing,1642474.54,59,Vanuatu
+654,"Henderson, Taylor and Williams",Finance,4450813.07,485,Mauritius
+655,Flores and Sons,E-commerce,2024460.7,122,Denmark
+656,Barron-Flynn,Finance,3928537.62,166,Martinique
+657,Brown-Kerr,Technology,2678077.02,486,Slovakia (Slovak Republic)
+658,"Thomas, Alexander and Livingston",E-commerce,505458.92,74,Mauritania
+659,"Kelly, Perez and Parker",Marketing,68769.2,246,Honduras
+660,"Barton, Lewis and Miller",Manufacturing,1689814.26,369,Iceland
+661,"Hunter, Smith and Welch",Healthcare,1295882.53,52,Pakistan
+662,"Little, Simpson and Garcia",Marketing,1803961.08,173,Nigeria
+663,Taylor Ltd,E-commerce,1443376.04,214,Faroe Islands
+664,Barnett-Jones,Manufacturing,3744377.76,131,Bangladesh
+665,Aguilar Inc,Healthcare,2119674.19,496,Slovakia (Slovak Republic)
+666,Andrade-Miller,Manufacturing,153428.33,372,Slovenia
+667,"Miller, Hayes and Smith",Marketing,2821729.12,149,Oman
+668,Smith Ltd,Technology,1046952.21,89,Switzerland
+669,Jefferson and Sons,Technology,4788985.34,63,Micronesia
+670,Allen-Johnson,Technology,663893.66,156,Zimbabwe
+671,Johnson-Mason,Education,1490545.6,481,Saint Martin
+672,Rice-Ramos,Education,1130271.54,355,Saudi Arabia
+673,"Howard, Robinson and Kaufman",Finance,3420447.39,466,Malta
+674,Munoz-Morgan,Finance,4968976.52,321,Greenland
+675,Arnold and Sons,Manufacturing,2427728.95,251,Northern Mariana Islands
+676,Yang Inc,Healthcare,4914504.57,348,Burundi
+677,Key LLC,Technology,3116558.41,128,Maldives
+678,Wright PLC,Education,2544193.72,380,Benin
+679,"Nichols, Flores and Ayers",Finance,237682.81,118,French Guiana
+680,Norris-Lyons,Healthcare,4443643.08,22,Albania
+681,Lambert-Hernandez,E-commerce,4021472.31,418,Montserrat
+682,Wright LLC,E-commerce,588075.62,279,Norfolk Island
+683,"Robbins, Fitzpatrick and Taylor",Finance,3181964.35,377,Palau
+684,"Dunn, Arnold and Preston",Education,3009070.27,138,Singapore
+685,Vaughan Inc,Technology,1405760.51,240,Luxembourg
+686,Greer LLC,E-commerce,480391.14,195,Brunei Darussalam
+687,"Paul, Cameron and Willis",Finance,2042294.17,275,Guyana
+688,Jackson-Russell,Education,3912678.37,64,Libyan Arab Jamahiriya
+689,Shaw-Ferrell,Finance,4725909.37,289,Iraq
+690,"English, Smith and Wilson",Manufacturing,2843818.38,123,Mayotte
+691,Jackson and Sons,E-commerce,1775670.3,208,Zimbabwe
+692,Butler-Waters,Finance,835921.49,402,Rwanda
+693,Berry-Carter,Manufacturing,3666355.4,186,Liberia
+694,Valdez Ltd,Technology,3785829.25,327,Peru
+695,"Blake, Harper and Hunt",Technology,3258884.47,166,Angola
+696,Riley and Sons,Technology,4420058.9,253,Turks and Caicos Islands
+697,Grimes-Lawrence,Healthcare,193771.52,52,Congo
+698,"Perkins, Singleton and Foster",Finance,1796721.35,248,Somalia
+699,Sawyer and Sons,Finance,1746254.02,408,Canada
+700,Scott Ltd,Finance,1005186.35,390,Martinique
+701,"Garcia, Beck and Gibbs",Manufacturing,3549804.68,286,Isle of Man
+702,"Walter, Hopkins and Wright",Education,3260012.82,133,Bangladesh
+703,Smith-White,Technology,555386.4,428,Serbia
+704,Bailey-Rivera,Marketing,2703068.63,314,Guatemala
+705,Gibson-Shelton,E-commerce,883708.01,156,Qatar
+706,"Graham, Wu and Deleon",Finance,3982961.39,32,Kyrgyz Republic
+707,Robertson PLC,Technology,1570508.17,18,Guam
+708,Wallace Group,Manufacturing,4050761.83,344,Cambodia
+709,"Floyd, Schwartz and Evans",Marketing,4809084.36,217,Bosnia and Herzegovina
+710,"Young, Johnston and Cox",Finance,4107827.75,460,Greece
+711,"Webster, Smith and Smith",Education,1115801.38,368,Guadeloupe
+712,"Morales, Erickson and Obrien",E-commerce,1052168.88,88,Australia
+713,Mcdonald PLC,Finance,4437877.41,65,French Southern Territories
+714,Rogers-Schwartz,E-commerce,2679928.88,453,Monaco
+715,"Stanley, Carson and Gray",Finance,1667009.62,276,Cape Verde
+716,Vega PLC,Technology,4087685.45,49,Saint Vincent and the Grenadines
+717,"Ortega, Willis and Leblanc",Finance,248794.28,247,Congo
+718,Baxter Inc,Technology,389243.33,408,Iran
+719,Guerra-Thompson,Education,3081399.79,131,Isle of Man
+720,"Torres, Fernandez and Morales",Marketing,4279772.87,451,Seychelles
+721,Moreno Ltd,Marketing,1214793.57,27,Angola
+722,"Nelson, Young and Jones",E-commerce,922530.96,247,Saint Vincent and the Grenadines
+723,Rodriguez Group,Healthcare,1484247.8,85,Lebanon
+724,Morrison Group,Marketing,1901054.09,364,Russian Federation
+725,Wiley-Salazar,Finance,863056.89,149,Palau
+726,"Johnson, Miller and Thompson",Technology,951003.86,343,Djibouti
+727,Zamora-Meyer,Marketing,1615327.39,476,Norfolk Island
+728,Macdonald Inc,E-commerce,2056243.71,223,Tonga
+729,"Thompson, Roberts and Skinner",Education,948282.86,135,Kiribati
+730,"Zimmerman, Calhoun and Miller",Technology,1661123.11,156,Latvia
+731,King-Williams,Manufacturing,622249.81,267,Mozambique
+732,"Stewart, Morris and Rhodes",Healthcare,4075726.94,457,Northern Mariana Islands
+733,"Cunningham, Yang and Brown",Education,4958983.36,294,Albania
+734,Daniel LLC,Healthcare,777053.79,491,Qatar
+735,Cummings-Davis,Finance,1361407.14,138,Lesotho
+736,Rivas Group,Education,1790315.49,289,Greenland
+737,Horton Group,Technology,1651069.18,131,Lebanon
+738,Thomas LLC,Manufacturing,2665911.45,472,Malta
+739,Michael-Roy,Marketing,1198383.57,35,Pakistan
+740,Frazier-King,Education,4649890.36,217,Liechtenstein
+741,Nguyen-Mann,Finance,1675281.44,211,Armenia
+742,Wilkerson-Griffin,Marketing,1953863.97,354,Turks and Caicos Islands
+743,Robles Group,Technology,4278651.11,223,Syrian Arab Republic
+744,Wiggins-Vega,Healthcare,2241573.83,360,Uzbekistan
+745,Jones LLC,Marketing,2752310.68,151,Georgia
+746,"Prince, Mosley and Pitts",Manufacturing,2609483.98,300,Trinidad and Tobago
+747,Brown LLC,Education,4786556.52,179,French Southern Territories
+748,Jacobs PLC,E-commerce,2691062.32,397,Myanmar
+749,Taylor Ltd,Finance,3661098.46,162,Lesotho
+750,Warren Group,Manufacturing,3595856.69,454,Niue
+751,Underwood Inc,Finance,3308805.93,387,Paraguay
+752,Le Inc,E-commerce,1751444.5,392,Macedonia
+753,"Adams, Smith and Adams",Manufacturing,1294031.95,101,Western Sahara
+754,"Gallagher, Freeman and Cox",Healthcare,3600018.39,102,Madagascar
+755,Patterson-Hall,Healthcare,1480748.44,347,Christmas Island
+756,"Johnson, Gray and Branch",Marketing,1242359.82,291,Guinea
+757,Jackson and Sons,Manufacturing,3169647.25,250,Israel
+758,"Harris, Smith and Parker",Education,4475972.25,50,Argentina
+759,"Woods, Johnson and Castillo",E-commerce,4263242.51,395,Mayotte
+760,Nguyen LLC,Education,2082277.71,395,Guadeloupe
+761,"Snyder, Shepard and Jones",Healthcare,4679887.09,457,Guatemala
+762,"Young, Banks and Baldwin",Marketing,4607386.59,288,French Polynesia
+763,"Garcia, Lewis and Hamilton",Education,3901881.94,41,Nigeria
+764,Brown and Sons,Education,4913059.62,96,Jamaica
+765,"Smith, Coleman and Hansen",Education,3907280.29,79,Estonia
+766,Garrett Group,Education,1789994.88,175,Ireland
+767,Schwartz PLC,Manufacturing,3359342.29,343,Uganda
+768,Hoffman-Banks,Education,3090486.6,28,Singapore
+769,"Smith, Frost and Young",Marketing,4578130.51,88,Andorra
+770,Johnson-Ellis,E-commerce,2062474.92,261,Monaco
+771,Rojas-Smith,Manufacturing,2074477.98,219,Sudan
+772,Banks-Schneider,Technology,4653784.18,382,Italy
+773,Branch-York,Education,1032167.61,21,Philippines
+774,Duarte-Anderson,Healthcare,3916007.95,247,Aruba
+775,"Brown, Waller and Clarke",Education,904858.79,233,Falkland Islands (Malvinas)
+776,Adams-Dixon,Healthcare,1382258.52,402,Botswana
+777,Martinez Inc,Finance,1794097.56,319,United States Minor Outlying Islands
+778,Burton and Sons,Marketing,1801975.46,11,Western Sahara
+779,Johnson-Simmons,E-commerce,1186453.4,203,Congo
+780,Pitts-Oliver,Education,529202.42,78,Latvia
+781,Phillips Ltd,E-commerce,1678072.13,342,Mauritius
+782,"Richmond, Peters and Hansen",Marketing,1061664.28,71,British Virgin Islands
+783,Carr-Garner,E-commerce,1549362.97,286,Guyana
+784,Thomas Inc,Education,2644322.81,77,Saint Vincent and the Grenadines
+785,Price-Diaz,Healthcare,1189368.65,320,Denmark
+786,Hamilton Inc,Manufacturing,164920.85,387,Solomon Islands
+787,Chandler LLC,Manufacturing,4932967.59,254,Angola
+788,Smith Group,E-commerce,2817092.23,230,Western Sahara
+789,Wolfe LLC,Healthcare,4542698.42,498,Turks and Caicos Islands
+790,"Huerta, Wilson and Thompson",Technology,511045.64,288,Vietnam
+791,Boyd and Sons,Manufacturing,3407253.12,474,Guadeloupe
+792,"Medina, Martin and Shaw",Manufacturing,2614878.08,419,Peru
+793,Kent-Steele,Healthcare,2172844.24,31,Niue
+794,"Hayes, Henderson and Williams",Manufacturing,4035317.83,87,Germany
+795,"Schroeder, Kerr and Fisher",Finance,1323930.61,323,Niger
+796,Chase LLC,Finance,3292973.63,280,Germany
+797,Pearson-Mcpherson,Education,211652.37,221,Liberia
+798,Walker Ltd,Technology,2150294.4,225,Cayman Islands
+799,Cunningham-Howell,Healthcare,1892488.2,484,Norway
+800,Saunders-Khan,Education,4874592.66,500,Singapore
+801,Henry Inc,Finance,288626.81,160,United States of America
+802,Jones-Murray,Education,2918143.23,492,South Africa
+803,Wilson PLC,Manufacturing,1640638.61,399,Tuvalu
+804,"Miller, Gill and Baker",Marketing,1778765.45,248,Martinique
+805,Hall LLC,Manufacturing,3327137.87,120,Mozambique
+806,Taylor Group,Healthcare,3560114.04,269,Western Sahara
+807,Cummings-Wolfe,Healthcare,1908528.38,295,Lebanon
+808,Hill Group,Finance,4079135.74,157,Guatemala
+809,Evans-Smith,Education,1890380.96,327,Korea
+810,"Rodriguez, Kirk and Tran",Marketing,2497431.87,454,Angola
+811,"Banks, Ball and Alexander",Education,2592105.26,332,Croatia
+812,Ho PLC,Education,1216331.25,459,Andorra
+813,"May, Reed and Washington",Marketing,3034928.28,280,Dominica
+814,Martinez Ltd,Manufacturing,2848943.56,127,Belarus
+815,"Hernandez, Lucas and Short",Education,2235529.55,118,Equatorial Guinea
+816,"Brock, Howard and Williams",Finance,3456860.97,335,Norway
+817,Harding-Mendez,Technology,4828666.38,158,Angola
+818,Myers-Spencer,Technology,1918630.88,95,Samoa
+819,Gilbert PLC,Technology,1574851.25,331,Italy
+820,Herman Ltd,Healthcare,3333065.83,385,Saint Helena
+821,Davis-Tucker,Healthcare,1323046.75,472,Switzerland
+822,Moran Group,E-commerce,3019564.97,426,Macao
+823,Caldwell-Peterson,Manufacturing,4808886.37,391,Congo
+824,"Schroeder, Faulkner and Walton",Marketing,2105373.83,488,Gibraltar
+825,Martin Inc,E-commerce,1796234.77,396,Portugal
+826,"Mason, Griffin and Williams",E-commerce,1091745.22,439,Sudan
+827,Richards Ltd,Healthcare,2836574.98,219,Swaziland
+828,Gonzalez-Riggs,Manufacturing,3655360.6,191,Australia
+829,"Bennett, Bernard and Jackson",Education,2511503.97,368,Hungary
+830,Jones Ltd,E-commerce,4108720.84,394,Korea
+831,Acosta Inc,Marketing,1645490.35,34,Jordan
+832,"Hood, Hoffman and Huynh",Education,934726.53,229,Armenia
+833,Farrell-Ramirez,Marketing,4931045.4,149,French Southern Territories
+834,White PLC,Education,4626789.61,306,Libyan Arab Jamahiriya
+835,"Lewis, Pollard and Johnson",Technology,4290076.96,445,Iraq
+836,Cervantes Ltd,E-commerce,1439318.4,409,Reunion
+837,"Oconnor, Costa and Gonzalez",Manufacturing,3407627.33,213,France
+838,Barnes-Alvarez,Manufacturing,166553.17,365,Faroe Islands
+839,Simmons and Sons,Healthcare,1053123.4,167,Oman
+840,Jones LLC,Education,4885951.02,160,Liechtenstein
+841,Koch Group,Education,4721905.74,260,Norway
+842,Mann Ltd,Marketing,1551601.38,175,Tunisia
+843,Guzman PLC,E-commerce,4305589.15,178,Norway
+844,Levy PLC,Healthcare,1772635.75,417,Namibia
+845,"Lopez, Simmons and Parker",Finance,190014.74,26,Bouvet Island (Bouvetoya)
+846,Holland LLC,Manufacturing,1715641.25,83,Panama
+847,Salazar and Sons,Manufacturing,3897160.54,357,Saudi Arabia
+848,"Cox, Bell and Shepherd",Manufacturing,625444.59,170,Macedonia
+849,Gibbs-Baker,E-commerce,1617533.13,222,Belize
+850,"Smith, Peters and Norton",Technology,2479299.2,320,Norfolk Island
+851,"Miller, Johnson and Jenkins",Finance,650987.78,41,Singapore
+852,"Sanchez, Drake and Yates",Education,554186.19,203,Guinea-Bissau
+853,Duncan-Taylor,Finance,4829269.41,68,Korea
+854,"Peters, Miller and Hatfield",Finance,420922.33,17,Saint Martin
+855,Lee Ltd,Finance,4224093.75,480,Ethiopia
+856,"Ballard, Scott and Winters",Technology,4444976.84,270,Hong Kong
+857,"Nichols, Estrada and White",Technology,1314793.34,244,Italy
+858,"Perez, Johnson and Stewart",Healthcare,4829432.65,382,Palau
+859,Martinez Ltd,Manufacturing,4964592.35,249,Chad
+860,Wagner-Dixon,Healthcare,576866.44,324,Sweden
+861,Gordon Inc,Finance,3559851.44,117,Dominican Republic
+862,Gross PLC,Education,191571.82,449,Korea
+863,Day-Aguirre,Manufacturing,3570945.29,169,Macao
+864,Craig Group,E-commerce,1881201.83,66,Isle of Man
+865,Ruiz Inc,Healthcare,286534.54,461,Haiti
+866,Harrington and Sons,Technology,2641771.1,65,Malaysia
+867,Howard-Bryant,Technology,1715615.54,472,Russian Federation
+868,Morgan and Sons,Finance,2075390.84,36,Uruguay
+869,"Mendoza, Castillo and Sims",Healthcare,4232961.55,336,Tonga
+870,Williams Group,E-commerce,759690.8,160,Macao
+871,Robinson-Ryan,Education,4253721.77,187,Martinique
+872,Patel Ltd,Manufacturing,1602483.99,473,Cook Islands
+873,Johnston PLC,Marketing,4990228.81,126,Bahamas
+874,Johnson Inc,Healthcare,2242191.87,347,Sierra Leone
+875,Perez-Burns,Manufacturing,4111945.57,217,Pitcairn Islands
+876,"Petty, Booker and Jenkins",Marketing,3158024.37,362,Seychelles
+877,Richardson Ltd,Healthcare,4052138.41,496,Fiji
+878,"Ward, Fitzgerald and Powell",Finance,4776806.1,486,Burundi
+879,Garcia-Perkins,Finance,2144591.65,273,Belarus
+880,Hull-Small,Education,1138432.29,374,Madagascar
+881,Rivera-Jefferson,Healthcare,3556455.69,142,Western Sahara
+882,"Johnson, Lozano and Aguilar",Education,461329.68,131,Guatemala
+883,Collins Ltd,Technology,538672.29,174,Slovenia
+884,Fox LLC,Technology,1867871.65,242,Trinidad and Tobago
+885,Hansen-Parker,Technology,2067221.22,367,Namibia
+886,"Huber, Hunt and Wright",Education,1847390.08,221,United States Virgin Islands
+887,Warren-Hunt,Education,3845769.5,192,Uzbekistan
+888,Evans LLC,Finance,1668848.74,85,Seychelles
+889,Bailey-Castro,E-commerce,3674277.69,290,Cambodia
+890,"Brown, Hayes and Myers",E-commerce,1151112.71,390,Bangladesh
+891,"Cline, Andrews and Costa",Manufacturing,2552124.21,44,Tuvalu
+892,Bernard-Carter,Marketing,3999370.04,407,Micronesia
+893,Frey-Williams,Technology,4486695.75,76,Oman
+894,Yates-Phillips,Marketing,2181046.87,492,Saint Barthelemy
+895,Parker LLC,E-commerce,316223.72,313,Macao
+896,"Martinez, Erickson and Snyder",Healthcare,4798576.57,332,Gibraltar
+897,"Soto, Barnes and Castro",Healthcare,1918552.57,280,France
+898,Williams-Davis,Finance,2033914.2,323,Iceland
+899,"Lopez, Riggs and Bradley",Finance,3317565.61,220,Iceland
+900,"Davis, Merritt and Santiago",Marketing,3419966.04,169,Congo
+901,"Hall, Lee and Russell",Marketing,2146504.57,349,Lao People's Democratic Republic
+902,Zimmerman Group,E-commerce,1856984.74,95,Chile
+903,"Holland, Keller and Johnston",E-commerce,3935202.05,408,Cyprus
+904,Alvarado and Sons,Marketing,2884307.06,338,Macedonia
+905,Sanchez-Bell,Manufacturing,3175752.71,54,Hong Kong
+906,"Nelson, Coleman and Smith",Marketing,334792.34,498,Burkina Faso
+907,"White, Edwards and Berry",E-commerce,2787605.84,51,Panama
+908,Poole Group,E-commerce,3865347.17,256,Mayotte
+909,Orr-Smith,Education,1458936.21,450,Bolivia
+910,Rodriguez and Sons,Marketing,4964464.87,52,Norfolk Island
+911,Barron Ltd,Technology,1104629.52,11,Guinea
+912,Moore LLC,Education,4578484.64,80,Niger
+913,Morales-Kelly,E-commerce,2099652.92,67,Turks and Caicos Islands
+914,Phelps-Griffin,Education,4911837.16,475,Bouvet Island (Bouvetoya)
+915,Jenkins-Harris,Technology,127116.97,408,Ecuador
+916,"Tran, Larson and Hill",Technology,2779870.64,161,Saint Kitts and Nevis
+917,Schwartz-Flynn,Technology,3209638.8,238,Ukraine
+918,"Thompson, Wallace and Dickerson",Healthcare,2945986.23,384,Jamaica
+919,Jones Group,E-commerce,2527937.13,266,Hong Kong
+920,"Brown, Harmon and Ellis",Manufacturing,3781510.04,471,Guinea-Bissau
+921,Palmer-Sanchez,Education,1594505.43,262,Mongolia
+922,"Cobb, Townsend and James",Technology,192484.99,68,Croatia
+923,"Rogers, Graham and Gilbert",Healthcare,2675482.37,390,Japan
+924,Reeves-Alvarado,Healthcare,3314210.34,398,Reunion
+925,"Adams, Allen and Dunlap",Healthcare,2131429.94,153,British Indian Ocean Territory (Chagos Archipelago)
+926,Oneal PLC,E-commerce,3593258.3,42,Burkina Faso
+927,Jones Group,Finance,588813.88,331,British Indian Ocean Territory (Chagos Archipelago)
+928,Hubbard and Sons,Technology,2995289.41,48,Tajikistan
+929,Snyder and Sons,Technology,2726044.27,194,Suriname
+930,"Booth, Long and Walker",Healthcare,285243.99,202,Luxembourg
+931,"Reed, Bruce and Richards",E-commerce,922737.69,212,Luxembourg
+932,"Davis, Kelley and Blackburn",Marketing,2420705.54,423,Djibouti
+933,"Hernandez, Clark and Howell",Marketing,1843614.82,229,Puerto Rico
+934,"Murphy, Williams and Hall",Education,4973713.39,225,Cayman Islands
+935,Guerra PLC,Finance,1041719.88,405,Guadeloupe
+936,"Pearson, Shaw and Gutierrez",Marketing,1851186.31,79,Korea
+937,Gibson Inc,Marketing,4737181.81,415,Albania
+938,"Wallace, Garcia and Davis",Manufacturing,2340623.01,194,Chile
+939,"Delgado, Casey and Morrison",Finance,1821982.26,363,Cocos (Keeling) Islands
+940,"Newton, Larson and Smith",Finance,2114902.34,89,South Africa
+941,Farmer-Rose,Healthcare,2547814.13,224,Zimbabwe
+942,Rush-Price,Education,2336825.41,87,Sri Lanka
+943,"Smith, Hancock and Ross",Manufacturing,3085132.16,324,Cameroon
+944,Howard Group,Education,72128.16,291,Barbados
+945,Davis-Davila,Education,588165.65,146,Sao Tome and Principe
+946,Hill LLC,Healthcare,2990730.97,31,Liechtenstein
+947,Wilson-Ashley,Marketing,2415526.89,389,Kenya
+948,Martinez-Johnson,Education,4867300.32,438,Bhutan
+949,Russell Group,Finance,3378731.64,207,Tanzania
+950,Riley-Walker,Healthcare,1613308.94,186,Armenia
+951,Murray-Smith,Finance,2972206.91,16,Algeria
+952,Tucker-Williams,Finance,912964.34,457,Austria
+953,Young and Sons,Healthcare,4477374.94,359,Anguilla
+954,Patel-Conley,Education,2843080.54,74,Maldives
+955,Smith-Lewis,Finance,495041.63,395,Cambodia
+956,"Hill, Daniels and Morgan",Healthcare,3224875.15,15,Gambia
+957,"Lynch, Bell and Coleman",Manufacturing,2295769.93,21,Japan
+958,"Nunez, Noble and Mcdonald",Manufacturing,1817720.1,320,Cyprus
+959,"Dunlap, Taylor and Adams",E-commerce,2345469.62,25,Pakistan
+960,Collins-Barr,Manufacturing,2491022.22,149,Norway
+961,Jackson Ltd,E-commerce,3318637.63,227,Germany
+962,"Friedman, Newman and Alexander",Technology,4863872.9,300,Ghana
+963,Duran Inc,Education,4362946.71,284,Maldives
+964,Greer LLC,Marketing,461215.37,353,Greece
+965,Miller and Sons,Finance,2038388.72,122,San Marino
+966,"Dudley, Roberts and Lewis",Technology,4990291.36,31,Peru
+967,Thompson-Carter,Finance,1669230.0,462,Lebanon
+968,"Frost, Robinson and Williams",Marketing,1286136.39,314,Vietnam
+969,"Bautista, James and Villanueva",Education,2177353.27,490,Cook Islands
+970,Martin-White,E-commerce,4166613.42,152,Saint Lucia
+971,Wilcox Group,Manufacturing,2841419.72,128,Seychelles
+972,Johnson-White,Marketing,184154.97,14,Holy See (Vatican City State)
+973,"Manning, Moon and Howard",Manufacturing,4698146.98,441,Haiti
+974,"Carlson, Obrien and Morgan",Manufacturing,1473312.98,497,Togo
+975,"James, Riley and Patton",Finance,2652205.8,75,Azerbaijan
+976,Dean-Lopez,Education,2684131.87,251,Greece
+977,"Carter, Bradshaw and Jones",Education,112429.88,26,Hong Kong
+978,"Miller, Osborn and Vincent",Technology,530183.48,100,Korea
+979,Lee-Mcguire,Finance,2944102.49,164,Gabon
+980,Mckay-Sparks,Healthcare,3522817.0,386,Turkey
+981,Barnes PLC,Healthcare,1383313.67,498,Turkey
+982,Roberts-Estrada,E-commerce,84623.74,137,Wallis and Futuna
+983,Diaz Inc,Education,187720.07,443,Bouvet Island (Bouvetoya)
+984,Erickson LLC,Manufacturing,1681036.87,63,Burkina Faso
+985,Pierce LLC,E-commerce,638886.56,107,Belize
+986,Nelson-Beck,Manufacturing,1289706.26,220,Belize
+987,"Neal, Joseph and Mitchell",Healthcare,3268300.23,107,Niger
+988,Ellis Inc,Manufacturing,2528432.9,305,Estonia
+989,"King, House and Schneider",Healthcare,910470.68,471,Chile
+990,Obrien-Ramos,Finance,2440944.52,320,Guinea
+991,Smith Inc,Healthcare,2557837.87,444,Barbados
+992,"Curry, Wheeler and Harris",Marketing,1881309.35,145,Pitcairn Islands
+993,Lee and Sons,E-commerce,1076005.4,239,Oman
+994,Richardson LLC,Marketing,4332912.19,83,Portugal
+995,Ramirez-Larsen,E-commerce,2564417.73,189,United States Minor Outlying Islands
+996,Gamble Inc,Marketing,2694748.72,436,Poland
+997,"Lee, Carter and Hale",Education,4354486.07,238,South Georgia and the South Sandwich Islands
+998,Melton-Diaz,Education,3126518.32,228,Bhutan
+999,Cox-Hernandez,Healthcare,3656017.45,115,Macao
+1000,Roberts Group,Marketing,1724359.46,243,Bhutan

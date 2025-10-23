@@ -1,0 +1,27 @@
+SELECT
+  d.deal_id,
+  d.deal_name,
+  d.stage AS deal_stage,
+  d.amount,
+  d.close_date,
+  d.owner AS deal_owner,
+  comp.company_id,
+  comp.company_name,
+  comp.industry,
+  comp.employees,
+  comp.country,
+  comp.annual_revenue,
+  c.contact_id,
+  CONCAT(c.firstname, ' ', c.lastname) AS contact_name,
+  c.email AS contact_email,
+  c.job_title AS contact_job_title
+FROM
+  `hubspot-crm-project-475809.Hubspot_data.Deals` AS d
+LEFT JOIN
+  `hubspot-crm-project-475809.Hubspot_data.Companies` AS comp
+ON
+  d.company_id = comp.company_id
+LEFT JOIN
+  `hubspot-crm-project-475809.Hubspot_data.Contacts` AS c
+ON
+  comp.company_id = c.company_id;
