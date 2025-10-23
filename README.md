@@ -97,7 +97,7 @@ This process created a single analytical dataset (crm_analysis_view) used in Loo
 
 ### **Page 1 – Executive Summary**
 
-![Images](Executive%20Summary.png)
+![Images](Images/Executive%20Summary.png)
 
 
 Provides a high-level view of company performance.
@@ -109,7 +109,7 @@ Provides a high-level view of company performance.
 
 ### **Page 2 – Leads & Contacts**
 
-![Images](Leads%20and%20Contact%20Insights.png)
+![Images](Images/Leads%20and%20Contact%20Insights.png)
 
 
 Focuses on contact and data quality analysis.
@@ -121,7 +121,7 @@ Focuses on contact and data quality analysis.
 
 ### **Page 3 – Deals & Companies**
 
-![Images](Deals%20and%20Company%20Insights.png)
+![Images](Images/Deals%20and%20Company%20Insights.png)
 
 
 Deep-dives into revenue and deal breakdowns.
