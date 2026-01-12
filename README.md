@@ -36,7 +36,7 @@ Ultimately, the dashboard helps transform raw CRM data into strategic business i
 
 - Data Analysts: to practice CRM analytics workflows involving SQL, BigQuery, and Looker Studio.
 
-💡 It’s both a business reporting tool and a data analytics case study.
+It’s both a business reporting tool and a data analytics case study.
 
 ---
 
@@ -93,7 +93,7 @@ This process created a single analytical dataset (crm_analysis_view) used in Loo
 
 ---
 
-## 📊 Dashboard Structure
+## Dashboard Structure
 
 ### **Page 1 – Executive Summary**
 
